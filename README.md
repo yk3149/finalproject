@@ -14,7 +14,7 @@ Extreme heat events increase electricity demand due to higher cooling needs. Reg
   https://dataminer2.pjm.com/feed/hrl_load_metered/definition
 
 * **NOAA Temperature Data (daily maximum temperature):**
-  https://www.ncei.noaa.gov/
+  https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/national
 
 * **Global Cloud / Data Center Location Data (GeoJSON for mapping):**
   https://github.com/lwieske/cloud-datacenter-locations
